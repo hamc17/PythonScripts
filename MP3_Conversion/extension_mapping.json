@@ -1,0 +1,31 @@
+{"ALBUM": {
+    "mp3": "album", "mp4": "album", "wma": "WM/AlbumTitle", "wmv": "WM/AlbumTitle"},
+ "ALBUMSORT": {
+    "mp3": "albumsort", "mp4": "albumsort", "wma": "WM/AlbumSortOrder", "wmv": "WM/AlbumSortOrder"},
+ "ALBUMARTIST": {
+    "mp3": "albumartist", "mp4": "albumartist", "wma": "WM/AlbumArtist", "wmv": "WM/AlbumArtist"},
+ "ALBUMARTISTSORT": {
+    "mp3": "albumartistsort", "mp4": "albumartistsort"},
+ "ARTIST": {
+    "mp3": "artist", "mp4": "artist", "wma": "Author", "wmv": "Author"},
+ "ARTISTSORT": {
+    "mp3": "artistsort", "mp4": "artistsort", "wma": "WM/ArtistSortOrder", "wmv": "WM/ArtistSortOrder"},
+ "BPM": {
+    "mp3": "bpm", "mp4": "tmpo", "wma": "WM/BeatsPerMinute", "wmv": "WM/BeatsPerMinute"},
+ "COMPILATION": {
+    "mp3": "compilation", "mp4": "cpil"},
+ "COMPOSER": {
+    "mp3": "composer", "wma": "WM/Composer", "wmv": "WM/Composer"},
+ "DISCNUMBER": {
+    "mp3": "discnumber", "mp4": "disk", "wma": "WM/PartOfSet", "wmv": "WM/PartOfSet"},
+ "GENRE": {
+    "mp3": "genre", "mp4": "genre", "wma": "WM/Genre", "wmv": "WM/Genre"},
+ "TITLE": {
+    "mp3": "title", "mp4": "title", "wma": "Title", "wmv": "Title"},
+ "TITLESORT": {
+    "mp3": "titlesort", "mp4": "titlesort", "wma": "WM/TitleSortOrder", "wmv": "WM/TitleSortOrder"},
+ "TRACK": {
+    "mp3": "tracknumber", "mp4": "trkn", "wma": "WM/TrackNumber", "wmv": "WM/TrackNumber"},
+ "YEAR": {
+    "mp3": "date", "mp4": "date" , "wma": "WM/Year", "wmv": "WM/Year"}
+}
